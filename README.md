@@ -2,7 +2,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/enzo-fernandes-pavanello-53832a213/)
 
-![devpavanello GitHub stats](https://github-readme-stats.vercel.app/api?username=devpavanello&show_icons=true&theme=dark)
+
 
 ## Tecnologias
 <div style="display: inline_block"><br/>
